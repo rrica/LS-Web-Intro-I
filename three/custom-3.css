@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+}
+
+.header {
+	background: purple;
+	height: 90px;
+	width: 100%;
+}
+
+.main {
+	height: 1100px;
+	width: 800px;
+	margin: auto;
+	padding-top: 35px;
+	background: red;
+}
+
+.blue {
+	height: 250px;
+	width: 80%;
+	margin: auto;
+	padding: 25px;
+	margin: 50px;
+	background: blue;
+}
+
+.yellow  {
+	height: 160px;
+	width: 160px;
+	float: left;
+	background: yellow;
+}
+
+.green {
+	height: 230px;
+	width: 65%;
+	float: right;
+	background: green;
